@@ -9,4 +9,4 @@ This project is created for the sole purpose of benchmarking ERC425 with other h
   ```
   npx hardhat run scripts/benchmark_mint.ts
   ```
-- For better accuracy and comparisions forking the ethereum mainnet from a node provider.
+- For better accuracy and comparisions, fork the ethereum mainnet from a node provider.
